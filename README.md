@@ -81,6 +81,8 @@ Now, let's interpret the model performances as follows:
 
 The best model is the second model with the concatenated training set. The difference between the quality of the models trained on the different training sets is simply because more data gives better results. However, it is not always true that more data gives better results, but we can conclude that the concatenated training set demonstrates better performance in our case.
 
+<br>
+
 ## Conclusion
 
 
